@@ -1,6 +1,10 @@
 public class Customer
 {
 
+public Customer()
+{
+}
+
  public String getFirstName()
 {
 
@@ -17,5 +21,8 @@ public String getLastName()
 public void setLastName(String lastName)
 {
 }
+
+
+
 
 }
