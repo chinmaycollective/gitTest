@@ -10,4 +10,8 @@ public void setFirstName(String firstName)
 {
 }
 
+public String getLastName()
+{
+}
+
 }
