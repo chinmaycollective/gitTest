@@ -14,4 +14,8 @@ public String getLastName()
 {
 }
 
+public void setLastName(String lastName)
+{
+}
+
 }
