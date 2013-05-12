@@ -22,6 +22,10 @@ public void setLastName(String lastName)
 {
 }
 
+public int getCustomerID()
+{
+}
+
 
 
 
