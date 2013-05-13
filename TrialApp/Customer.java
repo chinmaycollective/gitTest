@@ -1,6 +1,8 @@
 public class Customer
 {
 
+private int _customerID;
+
 public Customer()
 {
 }
