@@ -2,6 +2,7 @@ public class Customer
 {
 
 private int _customerID;
+private String _firstName;
 
 public Customer()
 {
