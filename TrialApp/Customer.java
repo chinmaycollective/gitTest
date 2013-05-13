@@ -10,6 +10,7 @@ public Customer()
 
  public String getFirstName()
 {
+	return _firstName;
 
 }
 
