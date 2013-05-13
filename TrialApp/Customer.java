@@ -26,6 +26,9 @@ public int getCustomerID()
 {
 }
 
+public int setCustomerID(int ID)
+{
+}
 
 
 
