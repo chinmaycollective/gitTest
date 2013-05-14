@@ -26,6 +26,7 @@ public String getLastName()
 
 public void setLastName(String lastName)
 {
+    _lastName = lastName;
 }
 
 public int getCustomerID()
