@@ -16,6 +16,7 @@ public Customer()
 
 public void setFirstName(String firstName)
 {
+    _firstName=firstName;
 }
 
 public String getLastName()
