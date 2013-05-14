@@ -21,7 +21,6 @@ public void setFirstName(String firstName)
 
 public String getLastName()
 {
-    return _lastName;
 }
 
 public void setLastName(String lastName)
